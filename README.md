@@ -1,5 +1,16 @@
-<h1 align="center">Hi , Jayden Obando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hello World! I'm Jayden Obando <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
+
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
+
+
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=22&duration=4000&center=true&vCenter=true&width=800&height=80&lines=Computer+Science+Student+%40Universidad+Central;Certified+in+OOP+with+Java+Fundamentals;Backend+Developer+%7C+Spring+Boot+Learner;Git+%7C+GitHub+%7C+IntelliJ+IDEA;Building+Projects+with+Java+and+MySQL;Passionate+about+Clean+Code;Always+Exploring+New+Tech">
 </a>
@@ -153,3 +164,9 @@
   &emsp;
     <a href="TU_ENLACE_UDEMY"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=plastic&logo=udemy&logoColor=white"></a>
 </p>
+
+<!-- Gráfico de Contribuciones -->
+<h2 align="center">📈 Gráfico de Contribuciones 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaydenobando123&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false&custom_title=Mi+Actividad+en+GitHub&radius=8&width=1200" style="border-radius: 15px; margin: 2rem 0">
+</div>
